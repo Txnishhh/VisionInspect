@@ -1,0 +1,126 @@
+{
+  "image": {
+    "width": 900,
+    "height": 600,
+    "channels": 3
+  },
+  "objects_detected": 5,
+  "shape_summary": {
+    "rectangle": 1,
+    "square": 1,
+    "circle": 2,
+    "triangle": 1
+  },
+  "detections": [
+    {
+      "shape": "rectangle",
+      "features": {
+        "area": 34500.0,
+        "perimeter": 760.0,
+        "centroid": {
+          "x": 715.0,
+          "y": 175.0
+        },
+        "bounding_box": {
+          "x": 600,
+          "y": 100,
+          "width": 231,
+          "height": 151
+        },
+        "vertices": 4,
+        "circularity": 0.7506,
+        "aspect_ratio": 1.5298,
+        "extent": 0.9891,
+        "relative_area": 0.063889
+      }
+    },
+    {
+      "shape": "square",
+      "features": {
+        "area": 34200.0,
+        "perimeter": 740.0,
+        "centroid": {
+          "x": 425.0,
+          "y": 180.0
+        },
+        "bounding_box": {
+          "x": 330,
+          "y": 90,
+          "width": 191,
+          "height": 181
+        },
+        "vertices": 4,
+        "circularity": 0.7848,
+        "aspect_ratio": 1.0552,
+        "extent": 0.9893,
+        "relative_area": 0.063333
+      }
+    },
+    {
+      "shape": "circle",
+      "features": {
+        "area": 25186.0,
+        "perimeter": 592.5,
+        "centroid": {
+          "x": 170.0,
+          "y": 170.0
+        },
+        "bounding_box": {
+          "x": 81,
+          "y": 81,
+          "width": 179,
+          "height": 179
+        },
+        "vertices": 8,
+        "circularity": 0.9016,
+        "aspect_ratio": 1.0,
+        "extent": 0.7861,
+        "relative_area": 0.046641
+      }
+    },
+    {
+      "shape": "circle",
+      "features": {
+        "area": 15172.0,
+        "perimeter": 458.27,
+        "centroid": {
+          "x": 500.0,
+          "y": 470.0
+        },
+        "bounding_box": {
+          "x": 431,
+          "y": 401,
+          "width": 139,
+          "height": 139
+        },
+        "vertices": 8,
+        "circularity": 0.9078,
+        "aspect_ratio": 1.0,
+        "extent": 0.7853,
+        "relative_area": 0.028096
+      }
+    },
+    {
+      "shape": "triangle",
+      "features": {
+        "area": 13010.0,
+        "perimeter": 546.84,
+        "centroid": {
+          "x": 180.0,
+          "y": 516.68
+        },
+        "bounding_box": {
+          "x": 80,
+          "y": 430,
+          "width": 201,
+          "height": 132
+        },
+        "vertices": 3,
+        "circularity": 0.5467,
+        "aspect_ratio": 1.5227,
+        "extent": 0.4904,
+        "relative_area": 0.024093
+      }
+    }
+  ]
+}

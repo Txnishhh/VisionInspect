@@ -1,0 +1,25 @@
+{
+  "model": "yolo11n.pt",
+  "confidence_threshold": 0.35,
+  "objects_detected": 1,
+  "class_summary": {
+    "bear": 1
+  },
+  "detections": [
+    {
+      "class": "bear",
+      "confidence": 0.4655,
+      "bounding_box": {
+        "x": 98,
+        "y": 94,
+        "width": 309,
+        "height": 449
+      }
+    }
+  ],
+  "image": {
+    "width": 494,
+    "height": 619,
+    "channels": 3
+  }
+}
