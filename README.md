@@ -1,4 +1,4 @@
-# VisionInspect: AI-Powered Computer Vision and Object Detection System
+# VisionInspect: ML-Powered Computer Vision and Object Detection System
 
 VisionInspect is a modular Python application combining classical Computer Vision and Machine Learning. It provides two complementary pipelines: OpenCV-based geometric shape analysis and YOLO-based real-world object detection.
 
